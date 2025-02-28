@@ -15,7 +15,9 @@ fi
 
 # Extract the files to the directory
 echo "Extracting the Telegram files...🍌🍌🍌"
+
 tar -xf tsetup.*.tar.xz -vC ~/.apps_and_softwares
+
 echo "Telegram files have been extracted successfully 🍌"
 
 # Make sure the Telegram executable is marked as executable
