@@ -14,4 +14,4 @@ I make this repo so that i can run a script and it will install the telegram in 
 
 ## Making the release
 
-zip -r telegram_install_1.0.0.zip . -x ".git*"
+zip -r telegram_install_1.0.0_5_14_3.zip . -x ".git*"
