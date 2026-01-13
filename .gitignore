@@ -6,8 +6,7 @@
 tsetup.*.tar.xz
 
 # BUT track this specific one
-!tsetup.0.0.0.tar.xz
-
+!Demo-tsetup.0.0.0.tar.xz
 
 # This below is the zip file will get after making the release's zip
 telegram_desktop_linux*.zip
