@@ -1,0 +1,13 @@
+
+
+# This below i will usaually make for release.
+
+# This below is the Archive file from official website
+tsetup.*.tar.xz
+
+# BUT track this specific one
+!tsetup.0.0.0.tar.xz
+
+
+# This below is the zip file will get after making the release's zip
+telegram_desktop_linux*.zip

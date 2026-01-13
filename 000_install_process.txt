@@ -1,0 +1,21 @@
+This is the telegram desktop app for linux machine, i just need to download this from browser and then i need to extract this and then run the Telegram file.
+
+	./install_app.sh
+
+
+All the things are in the .sh file so that it will do all things automatically i just need to run the executable .sh file.
+
+The website to download: https://desktop.telegram.org/
+
+Direct Download Link: https://telegram.org/dl/desktop/linux
+
+This will do the installation in the background.
+
+
+
+For any discussion message me.
+
+- Rana Universe 🍌
+UPI ID: RanaUniverse@upi
+Email: RanaUniverse321@gmail.com
+Telegram Link: https://t.me/RanaUniverse
